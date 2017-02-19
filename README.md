@@ -125,7 +125,7 @@ See [bigfive-web](https://github.com/maccyber/bigfive-web) for full repo.
     "title":"Agreeableness",
     "shortDescription":"Agreeableness reflects individual differences in concern with cooperation and social harmony. Agreeable individuals value getting along with others.",
     "description":"Agreeableness reflects individual differences in concern with\ncooperation and social harmony. Agreeable individuals value getting\nalong with others. They are therefore considerate, friendly,\ngenerous, helpful, and willing to compromise their interests with\nothers'. Agreeable people also have an optimistic view of human\nnature. They believe people are basically honest, decent, and\ntrustworthy. Disagreeable individuals place self-interest above getting along with\nothers.  They are generally unconcerned with others' well-being, and\ntherefore are unlikely to extend themselves for other people.\nSometimes their skepticism about others' motives causes them to be\nsuspicious, unfriendly, and uncooperative.\nAgreeableness is obviously advantageous for attaining and maintaining\npopularity. Agreeable people are better liked than disagreeable\npeople. On the other hand, agreeableness is not useful in situations\nthat require tough or absolute objective decisions. Disagreeable\npeople can make excellent scientists, critics, or soldiers.",
-    "scoreText":"positive",
+    "scoreText":"high",
     "score":32,
     "facets":[  
 
