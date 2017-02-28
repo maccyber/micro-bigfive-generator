@@ -1,6 +1,6 @@
 ###########################################################
 #
-# Dockerfile for micro-bigfive-evaluator
+# Dockerfile for micro-bigfive-generator
 #
 ###########################################################
 
