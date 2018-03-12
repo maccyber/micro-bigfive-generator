@@ -42,18 +42,18 @@
     "url": "https://github.com/maccyber/micro-bigfive-generator/issues"
   },
   "devDependencies": {
-    "ava": "0.18.2",
-    "coveralls": "2.11.16",
-    "nsp": "2.6.2",
-    "nyc": "10.1.2",
-    "standard": "8.6.0",
-    "test-listen": "1.0.1"
+    "ava": "0.25.0",
+    "coveralls": "3.0.0",
+    "nsp": "3.2.1",
+    "nyc": "11.4.1",
+    "standard": "11.0.0",
+    "test-listen": "1.1.0"
   },
   "dependencies": {
-    "axios": "0.15.3",
-    "jsonwebtoken": "7.3.0",
-    "marked": "0.3.6",
-    "micro": "7.0.3"
+    "axios": "0.18.0",
+    "jsonwebtoken": "8.2.0",
+    "marked": "0.3.17",
+    "micro": "9.1.4"
   },
   "now": {
     "alias": "generator.bigfive.maccyber.io",

@@ -3,6 +3,8 @@
 
 # micro-bigfive-generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/maccyber/micro-bigfive-generator.svg)](https://greenkeeper.io/)
+
 Example: https://generator.bigfive.maccyber.io/
 
 [micro](https://github.com/zeit/micro) webservice that calculates score, descriptions and saves results
